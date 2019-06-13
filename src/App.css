@@ -1,0 +1,14 @@
+.instructions {
+  border: 1px solid black;
+  padding: 1em;
+ }
+.App{
+  padding: 1em;
+}
+.App h1{
+color: red
+}
+ 
+.red{
+  color: red
+}

@@ -1,0 +1,8 @@
+export const GET_CHARACTER = "GET_CHARACTER";
+export const LOAD_CHARACTER_INFO = "LOAD_CHARACTER_INFO";
+export const LOAD_MOVIE_DATA = "LOAD_MOVIE_DATA";
+export const LOAD_LATEST_MOVIE = "LOAD_LATEST_MOVIE";
+export const ADD_LOADER = "ADD_LOADER";
+export const REMOVE_LOADER = "REMOVE_LOADER";
+
+
