@@ -15,7 +15,7 @@ function App() {
             <p>API doc: https://swapi.co/</p>
             Required:
             <ul>
-              <li>Give an EOT: 2 hour</li>
+              <li>Give an EOT: 4 hour</li>
               <li>ES6 / RESTful API </li>
               <li>Use yarn</li>
               <li>Redux (or other state management library). Do not use react state. </li>
